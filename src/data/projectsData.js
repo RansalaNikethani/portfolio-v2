@@ -122,8 +122,8 @@ export const projectsData = [
     role: "Full Stack Developer & QA Engineer",
     image: "/images/projects/p-3.png",
     techStack: ["React", "Tailwind CSS", "React Router", "Vite", "Lucide React"],
-    githubLink: "https://github.com/yourusername/portfolio-2025", // Remember to update this
-    liveLink: "https://yourdomain.com", // Remember to update this
+    githubLink: "https://github.com/RansalaNikethani/portfolio-v2", 
+    liveLink: "https://upuli-portfolio.netlify.app/", 
     qaHighlights: [
       "Implemented automated accessibility checks using axe-core during development.",
       "Achieved 95+ Lighthouse scores for performance, accessibility, and SEO through code splitting and semantic HTML.",
