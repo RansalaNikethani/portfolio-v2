@@ -108,7 +108,6 @@ export const projectsData = [
     liveLink: "https://sltours123.netlify.app/",
     qaHighlights: [
       "Ensured consistent layout across mobile, tablet, and desktop using Bootstrap’s grid system.",
-      "Tested interactive elements (e.g., modals, carousels) for accessibility and usability.",
       "Optimized image assets for fast loading without compromising visual quality."
     ],
     categories: ["Website"],
