@@ -1,16 +1,71 @@
-# React + Vite
+# Upuli Ransala - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** [**https://upuli-portfolio.netlify.app/**](https://upuli-portfolio.netlify.app/)
 
-Currently, two official plugins are available:
+![Portfolio Screenshot](https://github.com/user-attachments/assets/d9ca63cc-6c96-4b64-a33e-e455e74e78f9)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## About This Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This is my personal developer portfolio, built to showcase my skills in full-stack development and quality assurance. It features a clean, responsive design and highlights my key projects, professional experience, and technical abilities.
 
-## Expanding the ESLint configuration
+This project was built from scratch using React and Tailwind CSS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+* **Responsive Design:** Fully responsive layout for mobile, tablet, and desktop devices.
+* **Project Showcase:** A filterable grid of my best work, including project details, tech stacks, and links.
+
+---
+
+## Tech Stack
+
+Here are the main technologies used in this project:
+
+* **Frontend:** React, Tailwind CSS
+* **Routing:** React Router
+* **Icons:** Lucide React
+* **Build Tool:** Vite
+* **Deployment:** Netlify
+
+---
+
+## Getting Started (Running Locally)
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+You'll need [Node.js](https://nodejs.org/en) (which includes `npm`) installed on your computer.
+
+### Installation
+
+1.  **Clone the repo:**
+    ```bash
+    git clone [https://github.com/RansalaNikethani/portfolio-v2.git](https://github.com/RansalaNikethani/portfolio-v2.git)
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd portfolio-v2
+    ```
+3.  **Install NPM packages:**
+    ```bash
+    npm install
+    ```
+4.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
+
+You can now view the project at `http://localhost:5173/` (or whatever port Vite specifies) in your browser.
+
+---
+
+## Contact
+
+* **Email:** [nikethani.official@gmail.com](mailto:nikethani.official@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/ransala/](https://www.linkedin.com/in/ransala/)
+* **GitHub:** [https://github.com/RansalaNikethani](https://github.com/RansalaNikethani)
