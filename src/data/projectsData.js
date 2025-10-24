@@ -29,7 +29,7 @@ export const projectsData = [
     role: "Full Stack Developer",
     image: "/images/projects/p-6.jpeg",
     techStack: ["Laravel", "PHP", "MySQL", "Tailwind CSS", "Chart.js", "Blade"],
-    githubLink: null, // Remember to update this
+    githubLink: null, 
     liveLink: null,
     demoType: "Government Project",
     qaHighlights: [
@@ -125,9 +125,7 @@ export const projectsData = [
     githubLink: "https://github.com/RansalaNikethani/portfolio-v2", 
     liveLink: "https://upuli-portfolio.netlify.app/", 
     qaHighlights: [
-      "Implemented automated accessibility checks using axe-core during development.",
-      "Achieved 95+ Lighthouse scores for performance, accessibility, and SEO through code splitting and semantic HTML.",
-      "Conducted cross-browser and responsive testing on real devices and BrowserStack."
+      "Achieved 93+ Lighthouse scores for performance, accessibility, and SEO through code splitting and semantic HTML."
     ],
     categories: [ "Website"],
   },
