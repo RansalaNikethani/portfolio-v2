@@ -30,7 +30,6 @@ export const skillsData = [
       "MySQL", 
       "Git", 
       "GitHub", 
-      "Postman", 
       "Database Design"
     ],
   },
@@ -38,7 +37,9 @@ export const skillsData = [
     category: "Design & Methodologies",
     skills: [
       "Figma",
-      "Adobe XD",      
+      "Adobe XD",    
+      "Illustrator",
+      "Photoshop",  
       "SDLC", 
       "STLC"
     ],

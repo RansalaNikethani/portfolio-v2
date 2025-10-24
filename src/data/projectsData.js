@@ -129,6 +129,6 @@ export const projectsData = [
       "Achieved 95+ Lighthouse scores for performance, accessibility, and SEO through code splitting and semantic HTML.",
       "Conducted cross-browser and responsive testing on real devices and BrowserStack."
     ],
-    categories: [ "Website", "QA"],
+    categories: [ "Website"],
   },
 ];
